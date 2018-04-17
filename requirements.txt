@@ -5,3 +5,10 @@ sklearn
 matplotlib
 nltk
 ipython
+Theano
+keras
+# tensorflow-gpu
+tensorflow
+flake8
+pep8
+autopep8

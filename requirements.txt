@@ -12,3 +12,4 @@ tensorflow
 flake8
 pep8
 autopep8
+pillow
